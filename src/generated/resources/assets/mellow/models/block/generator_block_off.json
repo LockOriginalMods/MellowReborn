@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mellow:block/machine_bottom",
+    "east": "mellow:block/machine_side",
+    "north": "mellow:block/generator_block",
+    "particle": "mellow:block/machine_side",
+    "south": "mellow:block/machine_side",
+    "up": "mellow:block/machine_top",
+    "west": "mellow:block/machine_side"
+  }
+}

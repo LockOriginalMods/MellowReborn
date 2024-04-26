@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "mellow:tin_ingot"
+    },
+    "X": {
+      "item": "mellow:tin_nugget"
+    }
+  },
+  "pattern": [
+    " X ",
+    "XCX",
+    " X "
+  ],
+  "result": {
+    "item": "mellow:tin_gear"
+  },
+  "show_notification": true
+}

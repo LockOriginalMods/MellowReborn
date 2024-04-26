@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "mellow:copper_wire"
+    },
+    "X": {
+      "item": "mellow:graphene"
+    },
+    "Z": {
+      "item": "mellow:rubber"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "ZXZ",
+    "RRR"
+  ],
+  "result": {
+    "count": 4,
+    "item": "mellow:cable"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "char",
+  "ingredient": {
+    "item": "mellow:stripped_rubber_log"
+  },
+  "result": "minecraft:charcoal"
+}

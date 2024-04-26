@@ -1,0 +1,10 @@
+{
+  "type": "mellow:grinder",
+  "input": {
+    "item": "mellow:raw_aluminum"
+  },
+  "result": {
+    "item": "mellow:aluminum_dust",
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X  ",
+    "X  "
+  ],
+  "result": {
+    "item": "mellow:handle"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mellow:electric_furnace",
+  "ingredients": [
+    {
+      "item": "mellow:brass_dust"
+    }
+  ],
+  "output": {
+    "item": "mellow:brass_ingot"
+  }
+}

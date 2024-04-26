@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " RX",
+    "  R",
+    "   "
+  ],
+  "result": {
+    "item": "mellow:cutter"
+  },
+  "show_notification": true
+}

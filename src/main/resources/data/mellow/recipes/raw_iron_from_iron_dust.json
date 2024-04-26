@@ -1,0 +1,12 @@
+{
+  "type": "mellow:crusher",
+  "input": [
+    {
+      "item": "minecraft:raw_iron"
+    }
+  ],
+  "output": {
+    "item": "mellow:iron_dust",
+    "count": 2
+  }
+}

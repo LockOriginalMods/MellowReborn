@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mellow:copper_plate"
+    },
+    {
+      "item": "mellow:cutter"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "mellow:copper_wire"
+  }
+}

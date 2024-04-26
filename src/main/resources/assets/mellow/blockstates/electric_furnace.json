@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mellow:block/electric_furnace",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mellow:block/electric_furnace"
+    },
+    "facing=south": {
+      "model": "mellow:block/electric_furnace",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mellow:block/electric_furnace",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "mellow:grinder",
+  "input": {
+    "item": "minecraft:raw_iron"
+  },
+  "result": {
+    "item": "mellow:iron_dust",
+    "count": 2
+  }
+}

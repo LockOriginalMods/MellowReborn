@@ -1,0 +1,10 @@
+{
+  "type": "mellow:grinder",
+  "input": {
+    "item": "minecraft:clay_ball"
+  },
+  "result": {
+    "item": "mellow:clay_dust",
+    "count": 2
+  }
+}

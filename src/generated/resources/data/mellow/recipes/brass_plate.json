@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mellow:brass_ingot"
+    },
+    {
+      "item": "mellow:hammer"
+    }
+  ],
+  "result": {
+    "item": "mellow:brass_plate"
+  }
+}

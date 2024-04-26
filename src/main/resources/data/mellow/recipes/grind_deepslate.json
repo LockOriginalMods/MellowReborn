@@ -1,0 +1,10 @@
+{
+  "type": "mellow:grinder",
+  "input": {
+    "item": "minecraft:cobbled_deepslate"
+  },
+  "result": {
+    "item": "mellow:deepslate_dust",
+    "count": 2
+  }
+}

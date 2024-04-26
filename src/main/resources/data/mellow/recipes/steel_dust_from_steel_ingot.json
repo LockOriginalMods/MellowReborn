@@ -1,0 +1,11 @@
+{
+  "type": "mellow:electric_furnace",
+  "ingredients": [
+    {
+      "item": "mellow:steel_dust"
+    }
+  ],
+  "output": {
+    "item": "mellow:steel_ingot"
+  }
+}

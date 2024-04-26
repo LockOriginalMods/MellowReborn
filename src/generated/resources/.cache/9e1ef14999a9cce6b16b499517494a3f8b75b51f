@@ -1,0 +1,7 @@
+// 1.20.1	2023-07-27T12:59:21.0248526	Tags for minecraft:block mod id mellow
+473504446cff2f59ae91aa55879dcbdad46963fc data/minecraft/tags/blocks/leaves.json
+8d1e5f727ad47cf5e0c438fbb33c44fa65879a72 data/minecraft/tags/blocks/logs.json
+610e2bd0aa222fea4c17dc540e468632c8146f94 data/minecraft/tags/blocks/mineable/axe.json
+e077186191ad968cf34161866fb398bc008c2ba0 data/minecraft/tags/blocks/mineable/pickaxe.json
+ca10d35ba14fe014e2636b095b5f501c6101d96c data/minecraft/tags/blocks/needs_iron_tool.json
+69856f4d24173ad02d115db8c4a2f15ec1fd9b1c data/minecraft/tags/blocks/needs_stone_tool.json

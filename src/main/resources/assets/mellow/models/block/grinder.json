@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mellow:block/grinder_top",
+    "down": "mellow:block/grinder_bottom",
+    "up": "mellow:block/grinder_top",
+    "north": "mellow:block/grinder_side",
+    "south": "mellow:block/grinder_side",
+    "west": "mellow:block/grinder_side",
+    "east": "mellow:block/grinder_side"
+  }
+}

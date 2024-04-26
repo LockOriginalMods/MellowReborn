@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "mellow:block/charger_block_off"
+    },
+    "powered=true": {
+      "model": "mellow:block/charger_block_on"
+    }
+  }
+}

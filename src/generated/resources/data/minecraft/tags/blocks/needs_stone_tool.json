@@ -1,0 +1,13 @@
+{
+  "values": [
+    "mellow:tin_block",
+    "mellow:raw_tin_block",
+    "mellow:deepslate_tin_ore",
+    "mellow:aluminum_ore",
+    "mellow:deepslate_aluminum_ore",
+    "mellow:zinc_ore",
+    "mellow:deepslate_zinc_ore",
+    "mellow:grinder",
+    "mellow:handle"
+  ]
+}

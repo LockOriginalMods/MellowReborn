@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mellow:block/resin_block" }
+  }
+}

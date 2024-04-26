@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mellow:copper_dust"
+    },
+    {
+      "item": "mellow:tin_dust"
+    },
+    {
+      "item": "mellow:tin_dust"
+    },
+    {
+      "item": "mellow:mortar"
+    }
+  ],
+  "result": {
+    "item": "mellow:bronze_dust"
+  }
+}

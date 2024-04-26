@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "char",
+  "ingredient": {
+    "item": "mellow:full_stripped_rubber_wood"
+  },
+  "result": "minecraft:charcoal"
+}

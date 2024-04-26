@@ -1,0 +1,11 @@
+{
+  "type": "mellow:electric_furnace",
+  "ingredients": [
+    {
+      "item": "mellow:mixed_metal_blend"
+    }
+  ],
+  "output": {
+    "item": "mellow:advanced_alloy"
+  }
+}

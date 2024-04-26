@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mellow:brass_dust"
+    },
+    {
+      "item": "mellow:aluminum_dust"
+    },
+    {
+      "item": "mellow:tin_dust"
+    },
+    {
+      "item": "mellow:mortar"
+    }
+  ],
+  "result": {
+    "item": "mellow:mixed_metal_blend"
+  }
+}

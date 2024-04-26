@@ -1,0 +1,10 @@
+{
+  "type": "mellow:grinder",
+  "input": {
+    "item": "mellow:raw_tin"
+  },
+  "result": {
+    "item": "mellow:tin_dust",
+    "count": 2
+  }
+}

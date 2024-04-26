@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mellow:tin_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "mellow:tin_ingot"
+  }
+}

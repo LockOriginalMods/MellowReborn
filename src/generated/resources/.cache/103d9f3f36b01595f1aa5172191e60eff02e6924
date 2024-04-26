@@ -1,0 +1,10 @@
+// 1.20.1	2024-02-07T22:38:21.1761251	Registries
+1d125607dd6407654f212a79da5a5c1854407812 data/mellow/forge/biome_modifier/add_tin_ore.json
+d61b53fc21589c664c9b58149adb3891538527c7 data/mellow/worldgen/configured_feature/aluminum_ore.json
+aa72b80b0935e3dcc66227cd491f79432b65a84e data/mellow/worldgen/configured_feature/rubber.json
+83d1d8f8ef0ecb1b13238f12a219758332628796 data/mellow/worldgen/configured_feature/tin_ore.json
+190162762a6c075df0a5736518c51f22e021224f data/mellow/worldgen/configured_feature/zinc_ore.json
+f920872cc2dc47922a9b343735042b51cb84dbac data/mellow/worldgen/placed_feature/aluminum_ore.json
+0667beb1e63bfd710a8e9386ed1934356dee112f data/mellow/worldgen/placed_feature/rubber_placed.json
+ec56f0756fb9d03b00f0a7c542d9c1115f9d694b data/mellow/worldgen/placed_feature/tin_ore.json
+ec56f0756fb9d03b00f0a7c542d9c1115f9d694b data/mellow/worldgen/placed_feature/zinc_ore.json

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "mellow:energy_crystal"
+    },
+    "X": {
+      "item": "mellow:tin_plate"
+    },
+    "Z": {
+      "item": "mellow:graphene"
+    }
+  },
+  "pattern": [
+    " Z ",
+    "XRX",
+    "XRX"
+  ],
+  "result": {
+    "item": "mellow:battery"
+  },
+  "show_notification": true
+}

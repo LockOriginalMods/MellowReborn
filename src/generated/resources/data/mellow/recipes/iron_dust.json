@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_iron"
+    },
+    {
+      "item": "mellow:hammer"
+    }
+  ],
+  "result": {
+    "item": "mellow:iron_dust"
+  }
+}

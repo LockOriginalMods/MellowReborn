@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "mellow:battery"
+    },
+    "S": {
+      "item": "minecraft:furnace"
+    },
+    "X": {
+      "item": "mellow:iron_plate"
+    },
+    "Z": {
+      "item": "mellow:tin_plate"
+    }
+  },
+  "pattern": [
+    "ZXZ",
+    "XRX",
+    "XSX"
+  ],
+  "result": {
+    "item": "mellow:generator_block"
+  },
+  "show_notification": true
+}

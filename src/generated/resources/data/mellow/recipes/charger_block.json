@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "mellow:copper_plate"
+    },
+    "X": {
+      "item": "mellow:battery"
+    },
+    "Z": {
+      "item": "mellow:tin_plate"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "ZXZ",
+    "RRR"
+  ],
+  "result": {
+    "item": "mellow:charger_block"
+  },
+  "show_notification": true
+}

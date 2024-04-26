@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mellow:block/handle"
+    },
+    "facing=east": {
+      "model": "mellow:block/handle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mellow:block/handle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mellow:block/handle",
+      "y": 270
+    }
+  }
+}

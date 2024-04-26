@@ -1,0 +1,11 @@
+{
+  "type": "mellow:electric_furnace",
+  "ingredients": [
+    {
+      "item": "mellow:raw_tin"
+    }
+  ],
+  "output": {
+    "item": "mellow:tin_ingot"
+  }
+}

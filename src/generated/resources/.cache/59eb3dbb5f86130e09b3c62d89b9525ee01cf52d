@@ -1,0 +1,12 @@
+// 1.20.1	2024-03-22T15:09:06.4009635	Loot Tables
+e36c7c24337bd1079e5f6d2ec52411e0bb5930e8 data/mellow/loot_tables/blocks/aluminum_ore.json
+64d0cdd3c33551fcca7abe30b768966fb7e41b59 data/mellow/loot_tables/blocks/crusher.json
+48f310d1363377ae7ec1f4c7fc4b2a64f92836a7 data/mellow/loot_tables/blocks/deepslate_aluminum_ore.json
+189ab82ee37a03418ca5a76628138f74aa0ee31d data/mellow/loot_tables/blocks/deepslate_tin_ore.json
+262f9de9b82bee0672f22b86af56e586b87f292e data/mellow/loot_tables/blocks/deepslate_zinc_ore.json
+26859ca44aad982e25f81f7c338b107efe0f276b data/mellow/loot_tables/blocks/electric_furnace.json
+62e8c44763bd683eac69ea0e28f86bb0c4199ad3 data/mellow/loot_tables/blocks/raw_tin_block.json
+bfbe32189dc2f2b751332c1674688a24bca498af data/mellow/loot_tables/blocks/rubber_crop.json
+97c10759c6081dd5f515db8ab44b5d8a2ae2cb31 data/mellow/loot_tables/blocks/tin_block.json
+64c90c5a6988232d77dee9af7b8822920e66f4c3 data/mellow/loot_tables/blocks/tin_ore.json
+9ddb4d2e46e6ea53bbff22ff0cee9c7e9630e0a6 data/mellow/loot_tables/blocks/zinc_ore.json

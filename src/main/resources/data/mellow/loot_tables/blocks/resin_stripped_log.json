@@ -1,0 +1,23 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mellow:resin"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mellow:stripped_rubber_log"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "mellow:blocks/resin_stripped_log"
+}

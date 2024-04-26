@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mellow:raw_tin"
+    },
+    {
+      "item": "mellow:hammer"
+    }
+  ],
+  "result": {
+    "item": "mellow:tin_dust"
+  }
+}

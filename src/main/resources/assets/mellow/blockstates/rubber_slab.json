@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mellow:block/rubber_slab"
+    },
+    "type=double": {
+      "model": "mellow:block/rubber_planks"
+    },
+    "type=top": {
+      "model": "mellow:block/rubber_slab_top"
+    }
+  }
+}

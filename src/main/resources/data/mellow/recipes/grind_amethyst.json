@@ -1,0 +1,10 @@
+{
+  "type": "mellow:grinder",
+  "input": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "item": "mellow:amethyst_dust",
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "block.mellow.deepslate_tin_ore": "Глубино-сланцевая оловянная руда",
+  "block.mellow.raw_tin_block": "Блок сырого олова",
+  "block.mellow.tin_block": "Блок олова",
+  "block.mellow.tin_ore": "Оловянная руда",
+  "creative.mellow_tab": "Mellow",
+  "item.mellow.aluminum_dust": "Алюминивая пыль",
+  "item.mellow.amethyst_dust": "Аметистовая пыль",
+  "item.mellow.brass_dust": "Латуневая пыль",
+  "item.mellow.coal_dust": "Угольная пыль",
+  "item.mellow.copper_dust": "Медная пыль",
+  "item.mellow.deepslate_dust": "Глубино-сланцевая пыль",
+  "item.mellow.gold_dust": "Золотая пыль",
+  "item.mellow.iron_dust": "Железная пыль",
+  "item.mellow.raw_tin": "Сырое олово",
+  "item.mellow.stone_dust": "Каменая пыль",
+  "item.mellow.tin_ingot": "Слиток олова"
+}

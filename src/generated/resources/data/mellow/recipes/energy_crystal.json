@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "mellow:graphene"
+    },
+    "X": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    " X ",
+    "XRX",
+    " X "
+  ],
+  "result": {
+    "item": "mellow:energy_crystal"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "mellow:copper_plate"
+    },
+    "X": {
+      "item": "mellow:battery"
+    },
+    "Y": {
+      "item": "minecraft:furnace"
+    },
+    "Z": {
+      "item": "mellow:tin_plate"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "ZXZ",
+    "RYR"
+  ],
+  "result": {
+    "item": "mellow:electric_furnace"
+  },
+  "show_notification": true
+}

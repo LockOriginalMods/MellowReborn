@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mellow:item/seeds/flax_crop_seeds"
+  }
+}

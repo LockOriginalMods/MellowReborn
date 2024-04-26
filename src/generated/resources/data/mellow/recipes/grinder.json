@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "mellow:copper_plate"
+    },
+    "X": {
+      "item": "mellow:hammer"
+    },
+    "Z": {
+      "item": "mellow:copper_gear"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "ZXZ",
+    "RRR"
+  ],
+  "result": {
+    "item": "mellow:grinder"
+  },
+  "show_notification": true
+}

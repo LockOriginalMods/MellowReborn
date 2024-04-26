@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mellow:block/charging_station",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mellow:block/charging_station"
+    },
+    "facing=south": {
+      "model": "mellow:block/charging_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mellow:block/charging_station",
+      "y": 270
+    }
+  }
+}

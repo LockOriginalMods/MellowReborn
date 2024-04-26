@@ -1,0 +1,10 @@
+{
+  "type": "mellow:grinder",
+  "input": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": {
+    "item": "mellow:stone_dust",
+    "count": 2
+  }
+}

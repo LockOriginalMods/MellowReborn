@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "mellow:brass_ingot"
+    },
+    "X": {
+      "item": "mellow:brass_nugget"
+    }
+  },
+  "pattern": [
+    " X ",
+    "XCX",
+    " X "
+  ],
+  "result": {
+    "item": "mellow:brass_gear"
+  },
+  "show_notification": true
+}

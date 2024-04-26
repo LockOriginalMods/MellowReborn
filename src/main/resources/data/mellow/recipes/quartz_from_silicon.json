@@ -1,0 +1,11 @@
+{
+  "type": "mellow:electric_furnace",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    }
+  ],
+  "output": {
+    "item": "mellow:silicon"
+  }
+}
